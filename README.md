@@ -77,7 +77,7 @@ For each algorithm, we study:
 
 ## 🧪 Test Functions
 
-The methods are applied to three different functions over the a specified interval, allowing comparison across different function behaviors.
+The methods are applied to three different functions over a specified interval, allowing comparison across different function behaviors.
 
 ---
 
