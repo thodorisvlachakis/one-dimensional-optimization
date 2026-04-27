@@ -87,7 +87,7 @@ The methods are applied to three different functions over a specified interval, 
 one-dimensional-optimization/
 │
 ├── src/
-│   ├── methods/                                      # Core optimization algorithms
+│   ├── methods/                                      # Optimization algorithms
 │   │   ├── BisectionMethod.m
 │   │   ├── BisectionMethodUsingDerivatives.m
 │   │   ├── GoldenSectionMethod.m
@@ -110,10 +110,8 @@ one-dimensional-optimization/
 │   │
 │   └── FirstLaboratoryExerciseCode.m                 # Main script
 │
-├── statement/
-│   └── lab01.pdf
-│
-├── report/
+├── docs/                                             # Statement & Report
+│   ├── lab01.pdf
 │   └── report_lab01.pdf
 │
 ├── README.md
@@ -158,7 +156,7 @@ This will:
 
 ---
 
-## 📌 Notes
+## 📝 Notes
 
 * All results (plots as well as interpretations, comparative analysis and conclusions on convergernce and efficiency) are presented in the report
 * Figures are generated dynamically by running the code
