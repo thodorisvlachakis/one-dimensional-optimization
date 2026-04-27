@@ -1,4 +1,4 @@
-# 🔍 One-Dimensional Optimization
+# One-Dimensional Optimization
 
 This repository contains a MATLAB implementation and analysis of classical **one-dimensional optimization methods** for convex (unimodal) function minimization.
 
