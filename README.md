@@ -35,20 +35,20 @@ The project includes four classical optimization algorithms:
 
 These methods rely only on function evaluations:
 
-* **Bisection Method (Search Version)**
+* **Bisection Method (Search Version)**  
   Iteratively reduces the interval by evaluating the function at two points near the midpoint.
 
-* **Golden Section Method**
+* **Golden Section Method**  
   Uses a fixed ratio (≈0.618) to efficiently shrink the interval with minimal function evaluations.
 
-* **Fibonacci Method**
+* **Fibonacci Method**  
   Similar to the golden section method, but uses Fibonacci ratios to achieve optimal interval reduction in a predefined number of steps.
 
 ---
 
 ### 🔹 Derivative-Based Method
 
-* **Bisection Method Using Derivatives**
+* **Bisection Method Using Derivatives**  
   Uses the sign of the derivative at the midpoint to determine the direction of the minimum.
 
 ---
